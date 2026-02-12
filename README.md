@@ -2,9 +2,8 @@
 
 A streamlined computational framework for **Remote Photoplethysmography (rPPG)** research. This repository provides a clean, modular implementation of state-of-the-art supervised deep learning architectures and unsupervised signal decomposition methods for non-contact physiological monitoring.
 
-The codebase is optimized for **algorithmic development**, **comparative benchmarking**, and **reproducibility**, focusing strictly on the mathematical models and training pipelines without the overhead of deployment tools.
-
 ---
+The codebase is optimized for **algorithmic development**, **comparative benchmarking**, and **reproducibility**, focusing strictly on the mathematical models and training pipelines without the overhead of deployment tools.
 
 ## Methodological Scope
 
